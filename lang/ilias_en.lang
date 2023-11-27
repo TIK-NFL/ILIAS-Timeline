@@ -1,0 +1,12 @@
+news_setting_timeline_tab_presets#:#Configuration presets
+news_setting_timeline_tab_existing_settings#:#Modify existing settings
+news_setting_timeline_adopt_preset#:#Are you sure you would like to adopt the news settings for all repository objects (%s)?
+news_setting_timeline_modify_form_info#:#By using the following actions you can modify the settings in existing objects once.<br>Setting a checkbox as active for an object type results in an activation for this object type only. Inactive checkboxes will not result in an inactive news services for the respective objects.
+news_setting_timeline_enable#:#Enable news timeline service.
+news_setting_timeline_byline#:#Enables the timeline feature.
+news_setting_timeline_include_automatic_entries_enable#:#Enable news service timelines inclusion of automatic Entries.
+news_setting_timeline_include_automatic_entries_byline#:#File uploads, Forum posts and other Notifications will be included in the Timeline.
+news_setting_timeline_textfield_id#:#Enable news service timeline in the sub-tree by the given ref_id.
+news_setting_timeline_checkbox_group_course#:#Timeline service in object course.
+news_setting_timeline_checkbox_group_group#:#Timeline service in object group.
+news_setting_timeline_checkbox_group_byline#:#The timeline service will be enabled.

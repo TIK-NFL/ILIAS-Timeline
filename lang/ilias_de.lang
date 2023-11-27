@@ -1,0 +1,12 @@
+news_setting_timeline_tab_presets#:#Einstellungsvorlagen
+news_setting_timeline_tab_existing_settings#:#Bestehende Einstellungen anpassen
+news_setting_timeline_adopt_preset#:#Sind Sie sicher, dass Sie die Einstellungen für alle Objekte (%s) im Magazin übernehmen möchten?
+news_setting_timeline_modify_form_info#:#Mittels nachstehender Aktion können Sie die Einstellungen bestehender Objekte je Objekttyp einmalig anpassen.<br>Das aktiv setzen der Checkbox eines Objekttyps führt zur Aktivierung für diese Objekte. Inaktive Chekboxen führen nicht dazu, dass der Neuigkeiten-Service in den Objekten deaktiviert wird.
+news_setting_timeline_enable#:#Neuigkeiten-Service-Timeline aktivieren
+news_setting_timeline_byline#:#Aktivert die Neuigkeiten-Service-Timeline.
+news_setting_timeline_include_automatic_entries_enable#:#Aktiviere die Aufnahme von automatischen Einträgen in die Neuigkeiten-Service-Timeline
+news_setting_timeline_include_automatic_entries_byline#:#Datei-Uploads, Forenbeiträge und andere Benachrichtigungen werden in die Timeline aufgenommen.
+news_setting_timeline_textfield_id#:#Neuigkeiten-Service-Timeline im sub-tree der ref_id aktivieren.
+news_setting_timeline_checkbox_group_course:#:Timeline service in Objekt Kurs.
+news_setting_timeline_checkbox_group_group:#:Timeline service in Onjekt Gruppe.
+news_setting_timeline_checkbox_group_byline#:#Der Timeline-Service wird aktiviert.

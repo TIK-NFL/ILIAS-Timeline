@@ -1,0 +1,31 @@
+{
+  "name": "databay/news-settings",
+  "description": "An ILIAS plugin that applies defaults to the timeline service of new objects and provides a user interface for migrations of the timeline service.",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Ulf Bischoff",
+      "email": "ulf.bischoff@tik.uni-stuttgart.de"
+    }
+  ],
+  "require-dev": {
+    "captainhook/plugin-composer": "^5.1",
+    "friendsofphp/php-cs-fixer": "^2.16"
+  },
+  "autoload": {
+    "psr-4": {
+      "ILIAS\\Plugin\\NewsSettings\\": "src/"
+    },
+    "classmap": ["./src", "./classes"]
+  },
+  "require": {
+    "php": ">=8.0"
+  },
+  "config": {
+    "classmap-authoritative": true,
+    "allow-plugins": {
+      "captainhook/plugin-composer": true
+    }
+  }
+}
