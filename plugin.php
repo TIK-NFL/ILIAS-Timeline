@@ -18,7 +18,7 @@ declare(strict_types=1);
  ********************************************************************
  */
 
-$id = 'objnewsefaultset';
+$id = 'objnewsdefaultset';
 $version = '1.0.0';
 $ilias_min_version = '8.0.0';
 $ilias_max_version = '8.999.999';

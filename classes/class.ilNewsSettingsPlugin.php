@@ -42,7 +42,7 @@ class ilNewsSettingsPlugin extends ilEventHookPlugin
         global $ilDB;
         $this->dic = $DIC;
         $cr = $DIC['component.repository'];
-        parent::__construct($ilDB, $cr, "objnewsefaultset");
+        parent::__construct($ilDB, $cr, "objnewsdefaultset");
     }
 
     protected function init(): void
@@ -74,7 +74,7 @@ class ilNewsSettingsPlugin extends ilEventHookPlugin
         if (null === self::$instance) {
             global $DIC;
             $cf = $DIC['component.factory'];
-            self::$instance = $cf->getPlugin("objnewsefaultset");
+            self::$instance = $cf->getPlugin("objnewsdefaultset");
         }
         return self::$instance;
     }
